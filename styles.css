@@ -4,27 +4,27 @@ div {
 width: 100px;
 height: 100px;
 border-style: dotted;
-border-width 2px;
+border-width: 2px;
 
 
 }
 
     h1 {
         color: white;
-        font-size: 20;
+        font-size: 20px;
     }
 p {
     color:green;
-    font-size:12;
+    font-size:12px;
 }
 
 ol {
     color:green;
-    font-size:12;
+    font-size:12px;
 }
 
 
 ul {
     color:green;
-    font-size:12;
+    font-size:12px;
 }
